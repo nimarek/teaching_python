@@ -11,6 +11,6 @@ Publicly accessible repository for undergraduate students at OvGU and all other 
 
 Furthermore, the repository will be expanded at irregular intervals throughout the semester. There is an accompanying video of the creation of this - for actual research unsuitable - experiment at the following address (be beware, it is in german):
 
-(1) Video I - Introduction: TBA <br>
-(2) Video II - Core Principles: https://www.youtube.com/watch?v=mQUdvQr2UrM <br>
-(3) Video III - User Interaction: TBA<br>
+- Video I - Introduction: TBA <br>
+- Video II - Core Principles: https://www.youtube.com/watch?v=mQUdvQr2UrM <br>
+- Video III - User Interaction: TBA<br>
