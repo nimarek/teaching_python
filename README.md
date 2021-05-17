@@ -2,7 +2,10 @@
 
 Publicly accessible repository for undergraduate students at OvGU and all other living beings with an interest in PsychoPy. Here is a step-by-step explanation of how to design an experiment and convert it into Python code. If someone finds a bug, the person will get a beer or a warm handshake (or both) at the next conference.   
 
-**Important:** The stimulus materials used in the experiment were obtained from https://thispersondoesnotexist.com/ and https://thiscatdoesnotexist.com/. The only exception is 'cat_5.jpg', which is Gizmo. My chubby cat.
+**Important:** The stimulus materials used in the experiment were obtained from: 
+- https://thispersondoesnotexist.com/ 
+- https://thiscatdoesnotexist.com/
+- The only exception is 'cat_5.jpg', which is Gizmo. My chubby cat.
 
 ![alt text](https://raw.githubusercontent.com/nimarek/teaching_python_experiment/main/design_overview.png)
 
