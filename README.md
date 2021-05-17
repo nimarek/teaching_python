@@ -9,4 +9,8 @@ Publicly accessible repository for undergraduate students at OvGU and all other 
 
 ![alt text](https://raw.githubusercontent.com/nimarek/teaching_python_experiment/main/design_overview.png)
 
-Furthermore, the repository will be expanded at irregular intervals throughout the semester. There is an accompanying video of the creation of this - for actual research unsuitable - experiment at the following address: *** But beware, it is in german.
+Furthermore, the repository will be expanded at irregular intervals throughout the semester. There is an accompanying video of the creation of this - for actual research unsuitable - experiment at the following address (be beware, it is in german):
+
+(1) Video I - Introduction: TBA
+(2) Video II - Core Principles: https://www.youtube.com/watch?v=mQUdvQr2UrM
+(3) Video III - User Interaction: TBA
