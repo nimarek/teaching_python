@@ -1,4 +1,4 @@
-# teaching_python_experiments
+# teaching_python
 
 Publicly accessible repository for undergraduate students at OvGU and all other living beings with an interest in PsychoPy. Here is a step-by-step explanation of how to design an experiment and convert it into Python code. If someone finds a bug, the person will get a beer or a warm handshake (or both) at the next conference.   
 
