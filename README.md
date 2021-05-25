@@ -13,4 +13,6 @@ Furthermore, the repository will be expanded at irregular intervals throughout t
 
 - Video I - Introduction: TBA <br>
 - Video II - Core Principles: https://www.youtube.com/watch?v=mQUdvQr2UrM <br>
-- Video III - User Interaction: TBA<br>
+- Video III - User Interaction: https://www.youtube.com/watch?v=KMDo74uOqig <br>
+- Video IV - Save Responses
+- Video V - Additional Software
