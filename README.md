@@ -7,7 +7,7 @@ Furthermore, the repository will be expanded at irregular intervals throughout t
 - Video I - Introduction: https://www.youtube.com/watch?v=QXO0yy9egtM <br>
 - Video II - Core Principles: https://www.youtube.com/watch?v=mQUdvQr2UrM <br>
 - Video III - User Interaction: https://www.youtube.com/watch?v=KMDo74uOqig <br>
-- Video IV - Save Responses: This / Next Week <br>
+- Video IV - Save Responses: https://www.youtube.com/watch?v=V4BRXIdD84E <br>
 - Video V - Additional Software: https://www.youtube.com/watch?v=owx6BmPQSZQ <br>
 
 **Important:** The stimulus materials used in the experiment were obtained from: 
