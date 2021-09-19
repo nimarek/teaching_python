@@ -31,7 +31,7 @@ def present_img_rating(window_instance,
         image_stim_1.draw()
         image_stim_2.draw()
         rate_me.draw()
-        win.flip()
+        window_instance.flip()
         
     rating = rate_me.getRating()
     decisionTime = rate_me.getRT()
